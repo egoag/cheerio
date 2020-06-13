@@ -25,6 +25,7 @@
     "node": ">= 0.6"
   },
   "dependencies": {
+    "buffer": "^5.6.0",
     "css-select": "~2.1.0",
     "dom-serializer": "~1.0.1",
     "entities": "~2.0.2",
